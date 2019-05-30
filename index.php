@@ -1,5 +1,6 @@
 <html>
  <head>
+ <link rel="icon" href="https://sqlvafkp24pamflmsg.blob.core.windows.net/blockblobshxjgdp/add.ico">
  <Title>Registration Form</Title>
  <style type="text/css">
  	body { background-color: #fff; border-top: solid 10px #000;
