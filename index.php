@@ -16,7 +16,9 @@
  </style>
  </head>
  <body>
- <h1>Register here!</h1>
+	 <h1> Untuk Analisa Gambar  </h1> <a href="https://apj-gambar.azurewebsites.net">Click HERE</a>
+ <p></p>	 
+ <h3>Register here!</h3>
  <p>Fill in your name and email address, then click <strong>Submit</strong> to register.</p>
  <form method="post" action="index.php" enctype="multipart/form-data" >
        Name  <input type="text" name="name" id="name"/></br></br>
