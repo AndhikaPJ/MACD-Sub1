@@ -17,7 +17,7 @@
  </style>
  </head>
  <body>
-	 <h1> Untuk Analisa Gambar  </h1> <a href="https://apj-gambar.azurewebsites.net">Click HERE</a>
+	 <!-- <h1> Untuk Analisa Gambar  </h1> <a href="https://apj-gambar.azurewebsites.net">Click HERE</a> -->
  <p></p>	 
  <h3>Register here!</h3>
  <p>Fill in your name and email address, then click <strong>Submit</strong> to register.</p>
